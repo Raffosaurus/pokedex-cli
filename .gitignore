@@ -26,6 +26,7 @@ go.work.sum
 
 # build files
 /pokedex-cli
+repl.log
 
 # Editor/IDE
 # .idea/
